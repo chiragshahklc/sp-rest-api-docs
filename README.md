@@ -27,8 +27,8 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-- [Basic](basic.md)
-- [pageContext](pageContext.md)
+- [Basic](http://basic.md)
+- [pageContext](http://pageContext.md)
 
 ### Jekyll Themes
 
